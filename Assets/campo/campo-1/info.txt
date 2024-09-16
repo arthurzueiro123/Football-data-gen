@@ -1,0 +1,11 @@
+Name: MINI_football
+Version: 2015
+Preview: Yes
+Units: Millimeters
+Dimension: 48000.0 x 74810.1 x 2002.5
+Polys: 13 284
+XForm: Yes
+Box Trick: Yes
+Model Parts: 3
+Render: Corona
+Formats: 3Ds Max 2015, OBJ, FBX
